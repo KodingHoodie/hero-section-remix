@@ -17,3 +17,12 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+**********************************************
+
+Edited an old Scrimba project. The image on the left shows the original version. The image on the right features my redesigned version, built using the original code as a foundation and expanded with a significant amount of my own HTML and CSS. I also added a new image and a custom logo created in Canva. 
+
+<img width="2569" height="642" alt="Screenshot 2025-07-27 at 1 05 03 AM" src="https://github.com/user-attachments/assets/825fadfa-01b0-44e5-b5a4-d1b7dfbeddd5" />
+
+
+* This edit helped me get more comfortable with HTML and CSS structure. I’m still learning, but each project makes it easier to understand and build.
